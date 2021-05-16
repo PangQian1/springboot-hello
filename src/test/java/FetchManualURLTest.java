@@ -1,23 +1,17 @@
-import org.junit.After;
-import org.junit.Before;
-import org.junit.runner.RunWith;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.ActiveProfiles;
-import org.springframework.test.context.junit4.SpringRunner;
-import org.springframework.test.context.web.WebAppConfiguration;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest()
 public class FetchManualURLTest {
 
-    @Before
-    public void init() {
-        System.out.println("开始测试-----------------");
+    public static void temp(){
+        divideBy0();
     }
 
-    @After
-    public void after() {
-        System.out.println("测试结束-----------------");
+    public static void divideBy0(){
+        int a = 1/0;
+    }
+
+    public static void main(String args[]){
+      System.out.println(12304 >>> 16);
+      temp();
     }
 
 }

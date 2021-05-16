@@ -2499,3 +2499,33 @@ java.lang.NoSuchMethodError: org.mockito.MockingDetails.getMockCreationSettings(
 2021-05-12 15:48:50.897  INFO 34181 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 2021-05-12 15:48:50.900  INFO 34181 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
 2021-05-12 15:48:50.911  INFO 34181 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-05-12 21:06:58.058  INFO 39075 --- [main] c.itranswarp.learnjava.UserService1Test  : Starting UserService1Test on PangQian-Mac.local with PID 39075 (started by pangqian in /Users/pangqian/BeiKe/code/springboot-hello)
+2021-05-12 21:06:58.061  INFO 39075 --- [main] c.itranswarp.learnjava.UserService1Test  : No active profile set, falling back to default profiles: default
+2021-05-12 21:07:00.563  WARN 39075 --- [main] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2021-05-12 21:07:00.567  INFO 39075 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-05-12 21:07:01.380  INFO 39075 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-05-12 21:07:02.376  INFO 39075 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 21:07:03.303  INFO 39075 --- [main] c.itranswarp.learnjava.UserService1Test  : Started UserService1Test in 6.151 seconds (JVM running for 8.263)
+2021-05-12 21:07:03.421  INFO 39075 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 21:07:03.423  INFO 39075 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-05-12 21:07:03.431  INFO 39075 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-05-16 20:37:27.375  INFO 59277 --- [main] c.itranswarp.learnjava.UserService1Test  : Starting UserService1Test on PangQian-Mac.local with PID 59277 (started by pangqian in /Users/pangqian/BeiKe/code/springboot-hello)
+2021-05-16 20:37:27.377  INFO 59277 --- [main] c.itranswarp.learnjava.UserService1Test  : No active profile set, falling back to default profiles: default
+2021-05-16 20:37:29.795  WARN 59277 --- [main] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2021-05-16 20:37:29.799  INFO 59277 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-05-16 20:37:30.597  INFO 59277 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-05-16 20:37:31.428  INFO 59277 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-16 20:37:32.469  INFO 59277 --- [main] c.itranswarp.learnjava.UserService1Test  : Started UserService1Test in 6.009 seconds (JVM running for 7.793)
+2021-05-16 20:37:32.700  INFO 59277 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-16 20:37:32.702  INFO 59277 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-05-16 20:37:32.710  INFO 59277 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-05-16 20:40:33.460  INFO 59305 --- [main] c.itranswarp.learnjava.UserService1Test  : Starting UserService1Test on PangQian-Mac.local with PID 59305 (started by pangqian in /Users/pangqian/BeiKe/code/springboot-hello)
+2021-05-16 20:40:33.465  INFO 59305 --- [main] c.itranswarp.learnjava.UserService1Test  : No active profile set, falling back to default profiles: default
+2021-05-16 20:40:35.396  WARN 59305 --- [main] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2021-05-16 20:40:35.398  INFO 59305 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-05-16 20:40:35.782  INFO 59305 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-05-16 20:40:36.440  INFO 59305 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-16 20:40:37.007  INFO 59305 --- [main] c.itranswarp.learnjava.UserService1Test  : Started UserService1Test in 4.334 seconds (JVM running for 5.59)
+2021-05-16 20:40:37.110  INFO 59305 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-16 20:40:37.112  INFO 59305 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-05-16 20:40:37.118  INFO 59305 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
