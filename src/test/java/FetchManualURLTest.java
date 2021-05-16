@@ -11,6 +11,7 @@ public class FetchManualURLTest {
 
     public static void main(String args[]){
       System.out.println(12304 >>> 16);
+
       temp();
     }
 
